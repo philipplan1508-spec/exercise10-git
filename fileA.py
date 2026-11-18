@@ -1,5 +1,5 @@
 def funktion_x():
-    return "X"
+    return "Philipp"
 
 print("Hallo von Philipp")
 
