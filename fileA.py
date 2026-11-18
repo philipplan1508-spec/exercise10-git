@@ -1,5 +1,5 @@
 def funktion_x():
-    return "Teammate"
+    return "Philipp"
 
 print("Hallo von Philipp")
 
